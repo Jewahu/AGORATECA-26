@@ -1,0 +1,26 @@
+# Configuration files with sensitive data
+config.php
+email_config.php
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Archives
+*.rar
+*.zip
+*.tar.gz
